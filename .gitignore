@@ -1,0 +1,11 @@
+# System Files
+*.swp
+.DS_Store
+
+# Node Files
+/node_modules/
+npm-debug.log
+bower_components
+
+## Test Coverage Files
+test/coverage/
